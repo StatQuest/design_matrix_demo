@@ -1,1 +1,2 @@
-# design_matrix_demo
+This is the code from the StatQuest...
+* Design Matrix Examples in R: https://youtu.be/Hrr2anyK_5s
